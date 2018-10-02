@@ -1,6 +1,5 @@
 '''
-This script was created for a co-worker to open up a text file with thousands
-of lines. He needed it evenly split into smaller files equivalent to 50kb.
+Takes in a text file, finds out how many lines there are and splits it into smaller files. 
 '''
 
 with open('filename.txt') as jk:
