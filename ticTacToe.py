@@ -136,17 +136,4 @@ while True:
                 else:
                     turn = 'Player 1'
     if not replay():
-        break
-
-
-
-
-
-
-
-
-
-
-
-
-        
+        break    
