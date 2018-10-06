@@ -11,3 +11,4 @@ You can follow my progress here http://jashari.org/learning-python-in-8-weeks/
 5. **[learningExcel:](https://github.com/romarioj/learning-python/blob/master/learningExcel.py)**      Learning to read and write excel files in Python using openpyxl
 6. **[learningCSV:](https://github.com/romarioj/learning-python/blob/master/learningCSV.py)**        Learning to read and write CSV files in Python
 7. **[removeCsvHeader:](https://github.com/romarioj/learning-python/blob/master/removeCsvHeader.py)**    This script removes the first row of every CSV file, no matter how many there are. 
+8. **[learningJSON:](https://github.com/romarioj/learning-python/blob/master/learningJSON.py)** Notes on learning to read and write JSON files
