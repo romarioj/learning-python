@@ -27,8 +27,7 @@ while run:
                 return location
             else:
                 print("Please only use letters, try again")
-
-#re.match("^[a-z]*$") # The string must begin with  (^) letters [a-z] and must contain 0 or more letters (*) and end with letters ($)
+                
     r = url + city()
     response = requests.get(r)
     response.raise_for_status() # Check for erros
