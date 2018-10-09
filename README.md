@@ -13,3 +13,5 @@ You can follow my progress here http://jashari.org/learning-python-in-8-weeks/
 7. **[removeCsvHeader:](https://github.com/romarioj/learning-python/blob/master/removeCsvHeader.py)**    This script removes the first row of every CSV file, no matter how many there are. 
 8. **[learningJSON:](https://github.com/romarioj/learning-python/blob/master/learningJSON.py)** Notes on learning to read and write JSON files
 9. **[currentWeatherData:](https://github.com/romarioj/learning-python/blob/master/currentWeatherData.py)** Script that returns the weather data for any city in the U.S.
+10. **[learningTime:](https://github.com/romarioj/learning-python/blob/master/learningTime.py)** time.time, datetime.datetime.now()
+11. **[stopwatch:](https://github.com/romarioj/learning-python/blob/master/stopwatch.py)** Stopwatch program in Python
